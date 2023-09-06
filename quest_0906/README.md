@@ -58,7 +58,7 @@
           3번의 첨부파일과 동일한 이미지를 첨부합니다.
      
           
-          <img width="300" alt="샷3" src="https://github.com/jisungbb/aiffel/assets/112854733/e5e63260-441e-4506-a7f6-4393d2bdef64">
+  <img width="300" alt="샷3" src="https://github.com/jisungbb/aiffel/assets/112854733/e5e63260-441e-4506-a7f6-4393d2bdef64">
 
       
 
