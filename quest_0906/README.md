@@ -15,7 +15,6 @@
     -네, 루브릭에서 요구한 세 가지 조건 모두를 충족했다고 생각합니다. 데이터셋의 구성을 파악하고, 다섯가지 모델을 통해 정확도를 예측했으며
 모델을 바탕으로 평가 지표를 선택하였습니다.
 
-
 <img width="300" alt="샷1" src="https://github.com/jisungbb/aiffel/assets/112854733/7ca4c175-7044-40b6-b190-78ae8509cc92">
 
     
@@ -29,7 +28,7 @@
     - 군더더기 없는 주석으로 깔끔하게 코드를 보기 편했습니다.
      
     
-          <img width="300" alt="샷2" src="https://github.com/jisungbb/aiffel/assets/112854733/4726d4cf-9f7c-49cb-91f6-63e7c7627d7c">
+  <img width="300" alt="샷2" src="https://github.com/jisungbb/aiffel/assets/112854733/4726d4cf-9f7c-49cb-91f6-63e7c7627d7c">
 
         
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
@@ -41,7 +40,7 @@
     - 네, 개인적으로 빈 리스트를 만든 후, 1부터 100까지의 범위를 정해 for 반복문을 설정하신 부분이 인상깊었습니다.
 
 
-          <img width="300" alt="샷3" src="https://github.com/jisungbb/aiffel/assets/112854733/56de4c9d-98ac-4a06-855a-a68acb515149">
+  <img width="300" alt="샷3" src="https://github.com/jisungbb/aiffel/assets/112854733/56de4c9d-98ac-4a06-855a-a68acb515149">
 
         
 - [O]  **4. 회고를 잘 작성했나요?**
