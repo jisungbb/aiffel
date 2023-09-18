@@ -35,6 +35,6 @@
 
 - [O]  **5. 코드가 간결하고 효율적인가요?**
     - 전처리에 필요한 코드가 간결하고 PEP8형식에 잘 맞추어서 작성이 되어있습니다.
-    <<img src="https://i.ibb.co/crfnM1s/3.jpg">
+      <img src="https://i.ibb.co/crfnM1s/3.jpg">
 
 ---
